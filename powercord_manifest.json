@@ -1,0 +1,8 @@
+{
+  "name": "Dark Sorus",
+  "version": "0.1",
+  "author": "Hot Tutorials#0001",
+  "license": "MIT",
+  "theme": "sorus.theme.css",
+  "description": "Dark Theme based on the color scheme of a Minecraft PVP Client's UI"
+}

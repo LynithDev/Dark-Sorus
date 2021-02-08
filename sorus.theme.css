@@ -233,7 +233,7 @@ Thanks to some people in css-snippets for making some snippets
   border-radius: 0px;
 }
 
-#popout_6 {
+.layerContainer-yqaFcK #popout_6 {
   width: 102%;
   height: 100%;
   position: fixed;
@@ -247,7 +247,7 @@ Thanks to some people in css-snippets for making some snippets
   background-color: rgba(10,10,10,0.8);
 }
 
-.animatorTop-2Y7x2r{
+.layerContainer-yqaFcK #popout_6 .animatorTop-2Y7x2r{
   width: 100%;
   height: 100%;
   display: flex;
@@ -260,13 +260,13 @@ Thanks to some people in css-snippets for making some snippets
   margin-bottom: 53px;
 }
 
-.styleFixed-sX-yHV {
+.animatorTop-2Y7x2r .styleFixed-sX-yHV {
   width: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   pointer-events: auto;
-}
+} 
 
 .wrapper-35wsBm, .guildIconExpired-2Qcq05, .guildIcon-lQ0uiM {
   background-color: rgba(100,100,100,0.1);
